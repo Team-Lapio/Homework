@@ -1,10 +1,10 @@
 # FTZ level11
 
-ls 명령어를 치자.
+ls 명령어를 사용해서 무엇이 있는지 확인해 보자.
 
 __attackme , hint , public_html , tmp__ 
 
-cat hint 명령어를 사용하여 힌트를 확인해 보자.  
+일단은 cat hint 명령어를 사용하여 힌트를 확인해 보자.  
 
 ```
 #include <stdio.h>
