@@ -174,12 +174,12 @@ def wrapping_func(func):
 def foo():
     print('foo')
 
-extended_foo()
+foo()
 ```
 
 
 
-**데코레이터를 사용해 매개 변수가 있는 기존 함수 확장하기 ** 
+**데코레이터를 사용해 매개 변수가 있는 기존 함수 확장하기** 
 
 ```
 def wrapping_func(func):
